@@ -39,5 +39,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsans1997&show_icons=true&count_private=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsans1997)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
