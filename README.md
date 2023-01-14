@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahsanul Hasan</h1>
 <h3 align="center">A passionate Laravel Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsans1997&label=Profile%20views&color=0e75b6&style=flat" alt="ahsans1997" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsans1997" alt="ahsans1997" /></a> </p>
 
